@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(Honours)+Student;Full-Stack+Developer;AI+/+ML+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=🚀+B.Tech+CSE+(Honours)+Student;⚡+Full-Stack+Software+Engineer;🤖+AI+%2F+ML+Integration+Specialist" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20%28Honours%29-7C3AED?style=flat-square&logo=academia" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Minor-ECE-6D28D9?style=flat-square&logo=cpu" alt="Minor Badge" />
-  <img src="https://img.shields.io/badge/Location-Kerala,%20India-4C1D95?style=flat-square&logo=googlemaps" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20%28Honours%29-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Minor-ECE-6D28D9?style=for-the-badge&logo=cpu&logoColor=white" alt="Minor Badge" />
+  <img src="https://img.shields.io/badge/Location-Kerala,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </div>
 
 <br />
@@ -78,12 +78,12 @@ My technical focus centers on constructing robust enterprise software, developin
 
 ## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Deep Learning** | Advanced | Convolutional Neural Networks, ResNet50 Architectures, Computer Vision pipelines[span_6](start_span)[span_6](end_span) |
-| **Natural Language Processing** | Intermediate | Text classification, Sentiment analysis, NLP preprocessing workflows[span_7](start_span)[span_7](end_span) |
-| **Edge AI & Local LLMs** | Intermediate | Model orchestration and deployment utilizing Ollama & Hugging Face ecosystems[span_8](start_span)[span_8](end_span) |
-| **Frameworks** | Proficient | Streamlit, Flask API deployment interfaces for intelligent data applications[span_9](start_span)[span_9](end_span) |
+| Domain | Details |
+| :--- | :--- |
+| **Deep Learning** | Convolutional Neural Networks, ResNet50 Architectures, Computer Vision pipelines[span_6](start_span)[span_6](end_span) |
+| **Natural Language Processing** | Text classification, Sentiment analysis, NLP preprocessing workflows[span_7](start_span)[span_7](end_span) |
+| **Edge AI & Local LLMs** | Model orchestration and deployment utilizing Ollama & Hugging Face ecosystems[span_8](start_span)[span_8](end_span) |
+| **Frameworks** | Streamlit, Flask API deployment interfaces for intelligent data applications[span_9](start_span)[span_9](end_span) |
 
 ---
 
@@ -238,4 +238,22 @@ exploring:
 open_to:
   - Enterprise Full-Stack Internships
   - Core AI Infrastructure Engineering Tasks
-
+🤝 Connect With Me
+<div align="center">
+<a href="mailto:mohmedarifj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-arif-j">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Mohamed-Arif-J">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://mohamedarifj.vercel.app/">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+</div>
+<div align="center">
+<p><i>"Striving to transform algorithmic complexity into elegant, production-ready digital architecture."</i></p>
+<img src="https://capsule-render.herokuapp.com/main?type=wave&color=auto&height=100&section=footer&theme=dark" width="100%" alt="Footer Banner" />
+</div>
