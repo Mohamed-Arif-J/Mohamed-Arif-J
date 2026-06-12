@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=🚀+B.Tech+CSE+(Honours)+Student;⚡+Full-Stack+Software+Engineer;🤖+AI+%2F+ML+Integration+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=B.Tech+CSE+(Honours)+Student;Full-Stack+Software+Engineer;AI+%2F+ML+Integration+Specialist" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -41,13 +41,13 @@
 
 ## 🔑 About Me
 
-I am a high-achieving **B.Tech Computer Science and Engineering (Honours)** student with a minor in **Electronics and Communication Engineering**[span_0](start_span)[span_0](end_span). Driven by a product engineering mindset, I specialize in architecting production-grade full-stack architectures and implementing sophisticated Deep Learning solutions[span_1](start_span)[span_1](end_span). 
+I am a high-achieving **B.Tech Computer Science and Engineering (Honours)** student with a minor in **Electronics and Communication Engineering**. Driven by a product engineering mindset, I specialize in architecting production-grade full-stack architectures and implementing sophisticated Deep Learning solutions. 
 
-My technical focus centers on constructing robust enterprise software, developing highly responsive cross-platform architectures using Flutter, and engineering end-to-end Machine Learning pipelines[span_2](start_span)[span_2](end_span). Combining analytical precision with algorithmic excellence, I aim to build high-performance systems that bridge the gap between complex backend architectures and intelligent AI models[span_3](start_span)[span_3](end_span).
+My technical focus centers on constructing robust enterprise software, developing highly responsive cross-platform architectures using Flutter, and engineering end-to-end Machine Learning pipelines. Combining analytical precision with algorithmic excellence, I aim to build high-performance systems that bridge the gap between complex backend architectures and intelligent AI models.
 
 ### 🎯 Open To
-* Full-Stack Software Engineering Roles & Internships[span_4](start_span)[span_4](end_span)
-* AI/ML Infrastructure Development[span_5](start_span)[span_5](end_span)
+* Full-Stack Software Engineering Roles & Internships
+* AI/ML Infrastructure Development
 * Open-Source Collaborations on Enterprise Scale Software
 
 ---
@@ -80,10 +80,10 @@ My technical focus centers on constructing robust enterprise software, developin
 
 | Domain | Details |
 | :--- | :--- |
-| **Deep Learning** | Convolutional Neural Networks, ResNet50 Architectures, Computer Vision pipelines[span_6](start_span)[span_6](end_span) |
-| **Natural Language Processing** | Text classification, Sentiment analysis, NLP preprocessing workflows[span_7](start_span)[span_7](end_span) |
-| **Edge AI & Local LLMs** | Model orchestration and deployment utilizing Ollama & Hugging Face ecosystems[span_8](start_span)[span_8](end_span) |
-| **Frameworks** | Streamlit, Flask API deployment interfaces for intelligent data applications[span_9](start_span)[span_9](end_span) |
+| **Deep Learning** | Convolutional Neural Networks, ResNet50 Architectures, Computer Vision pipelines |
+| **Natural Language Processing** | Text classification, Sentiment analysis, NLP preprocessing workflows |
+| **Edge AI & Local LLMs** | Model orchestration and deployment utilizing Ollama & Hugging Face ecosystems |
+| **Frameworks** | Streamlit, Flask API deployment interfaces for intelligent data applications |
 
 ---
 
@@ -131,11 +131,11 @@ Rei is a personal AI assistant designed to perform real-world tasks beyond tradi
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Python, PyTorch, ResNet-50, Streamlit, CUDA[span_10](start_span)[span_10](end_span) |
+| **Stack** | Python, PyTorch, ResNet-50, Streamlit, CUDA |
 | **Scale** | Handles high-resolution artistic image uploads and classifications in real-time |
 | **Performance** | Sub-second inference latency executing via GPU-accelerated CUDA execution blocks |
 | **Security** | Secure multipart file upload validation and memory-safe stream buffer clearance |
-| **Impact** | Automates verification of digital artwork authenticity with definitive confidence scores[span_11](start_span)[span_11](end_span) |
+| **Impact** | Automates verification of digital artwork authenticity with definitive confidence scores |
 | **Repository** | [AI-Image-Detector](https://github.com/Mohamed-Arif-J) |
 
 ### Professional Summary
@@ -148,11 +148,11 @@ An advanced deep learning application designed to distinguish AI-generated artwo
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Python, Flask, Scikit-Learn, Selenium, NLP[span_12](start_span)[span_12](end_span) |
-| **Scale** | Multi-platform scraping and validation pipeline across Amazon and Flipkart ecosystems[span_13](start_span)[span_13](end_span) |
+| **Stack** | Python, Flask, Scikit-Learn, Selenium, NLP |
+| **Scale** | Multi-platform scraping and validation pipeline across Amazon and Flipkart ecosystems |
 | **Performance** | Achieved 87% prediction accuracy during feature extraction validation |
 | **Security** | Automated anti-bot navigation and memory-safe parsing buffers |
-| **Impact** | Curates marketplace transparency by programmatically filtering deceptive reviews[span_14](start_span)[span_14](end_span) |
+| **Impact** | Curates marketplace transparency by programmatically filtering deceptive reviews |
 | **Repository** | [Fake-Review-Detection](https://github.com/Mohamed-Arif-J) |
 
 ### Professional Summary
