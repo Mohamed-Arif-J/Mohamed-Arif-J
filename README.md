@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=auto&height=250&section=header&text=Mohamed%20Arif%20J&fontSize=70&animation=fadeIn&theme=dark" width="100%" alt="Header Banner" />
+  <h1>👋 Hi, I'm Mohamed Arif J</h1>
 </div>
 
 <div align="center">
@@ -41,13 +41,13 @@
 
 ## 🔑 About Me
 
-I am a high-achieving **B.Tech Computer Science and Engineering (Honours)** student with a minor in **Electronics and Communication Engineering**, maintaining a distinguished **CGPA of 9.47**. Driven by a product engineering mindset, I specialize in architecting production-grade full-stack architectures and implementing sophisticated Deep Learning solutions. 
+I am a high-achieving **B.Tech Computer Science and Engineering (Honours)** student with a minor in **Electronics and Communication Engineering**[span_0](start_span)[span_0](end_span). Driven by a product engineering mindset, I specialize in architecting production-grade full-stack architectures and implementing sophisticated Deep Learning solutions[span_1](start_span)[span_1](end_span). 
 
-My technical focus centers on constructing robust enterprise software, developing highly responsive cross-platform architectures using Flutter, and engineering end-to-end Machine Learning pipelines. Combining analytical precision with algorithmic excellence, I aim to build high-performance systems that bridge the gap between complex backend architectures and intelligent AI models.
+My technical focus centers on constructing robust enterprise software, developing highly responsive cross-platform architectures using Flutter, and engineering end-to-end Machine Learning pipelines[span_2](start_span)[span_2](end_span). Combining analytical precision with algorithmic excellence, I aim to build high-performance systems that bridge the gap between complex backend architectures and intelligent AI models[span_3](start_span)[span_3](end_span).
 
 ### 🎯 Open To
-* Full-Stack Software Engineering Roles & Internships
-* AI/ML Infrastructure Development
+* Full-Stack Software Engineering Roles & Internships[span_4](start_span)[span_4](end_span)
+* AI/ML Infrastructure Development[span_5](start_span)[span_5](end_span)
 * Open-Source Collaborations on Enterprise Scale Software
 
 ---
@@ -80,14 +80,50 @@ My technical focus centers on constructing robust enterprise software, developin
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Deep Learning** | Advanced | Convolutional Neural Networks, ResNet50 Architectures, Computer Vision pipelines |
-| **Natural Language Processing** | Intermediate | Text classification, Sentiment analysis, NLP preprocessing workflows |
-| **Edge AI & Local LLMs** | Intermediate | Model orchestration and deployment utilizing Ollama & Hugging Face ecosystems |
-| **Frameworks** | Proficient | Streamlit, Flask API deployment interfaces for intelligent data applications |
+| **Deep Learning** | Advanced | Convolutional Neural Networks, ResNet50 Architectures, Computer Vision pipelines[span_6](start_span)[span_6](end_span) |
+| **Natural Language Processing** | Intermediate | Text classification, Sentiment analysis, NLP preprocessing workflows[span_7](start_span)[span_7](end_span) |
+| **Edge AI & Local LLMs** | Intermediate | Model orchestration and deployment utilizing Ollama & Hugging Face ecosystems[span_8](start_span)[span_8](end_span) |
+| **Frameworks** | Proficient | Streamlit, Flask API deployment interfaces for intelligent data applications[span_9](start_span)[span_9](end_span) |
 
 ---
 
 ## 🛠️ Featured Projects
+
+<details>
+<summary><b>🧠 Psychology Counseling Platform (Full-Stack AI Project)</b></summary>
+
+### System Architecture & Performance Matrix
+| Dimension | Specifications |
+| :--- | :--- |
+| **Stack** | Django, Python, PostgreSQL, HTML, CSS, JavaScript, OpenAI API, Render |
+| **Scale** | Multi-tiered platform integrating comprehensive mental health suites for 5-member team operations |
+| **Performance** | Optimized pipeline coordination, fluid backend-to-frontend layer token routing |
+| **Security** | Secure authentication gates, protected transactional database tables on PostgreSQL |
+| **Impact** | Led entire cross-module integration and handled production-ready deployment |
+| **Repository** | [Psychology-Counseling-Platform](https://github.com/Mohamed-Arif-J) |
+
+### Professional Summary
+A comprehensive AI-powered mental health counseling platform developed as part of a collaborative internship project. The application connects patients with therapists through an intuitive web interface while providing AI-assisted mental health support tools. Features include therapist appointment booking, mood tracking, journaling, psychoeducational content, self-assessment forms, and AI-driven assistance.
+
+As the AI Integration Developer and Integration Lead, I developed and integrated multiple AI modules including chatbot triage, journal sentiment analysis, crisis keyword detection, therapist recommendation, and session note summarization. Beyond my assigned responsibilities, I coordinated the integration of all team modules, connected frontend interfaces with backend services, resolved cross-module dependencies, conducted end-to-end testing, and ensured seamless communication between different components. I also managed production deployment on Render, configured the application environment, handled database migration, and verified system stability for the final release.
+</details>
+
+<details>
+<summary><b>🤖 Rei — Personal AI Assistant (Work in Progress)</b></summary>
+
+### System Architecture & Performance Matrix
+| Dimension | Specifications |
+| :--- | :--- |
+| **Stack** | Python, FastAPI, Ollama, Qwen2.5, Selenium, Playwright |
+| **Scale** | Local standalone environment with scalable headless web automation integrations |
+| **Performance** | Asynchronous FastAPI execution routing low-latency inference cycles |
+| **Security** | 100% localized, privacy-focused offline interactions with explicit sandboxed system access |
+| **Impact** | Automates operational operating system and web automation cycles via natural language |
+| **Repository** | [Rei-AI-Assistant](https://github.com/Mohamed-Arif-J) |
+
+### Professional Summary
+Rei is a personal AI assistant designed to perform real-world tasks beyond traditional chat interactions. The project aims to create a desktop-based intelligent assistant capable of understanding natural language commands, controlling applications, automating browser activities, performing web searches, and executing system-level tasks. The architecture combines local Large Language Models with automation frameworks to provide privacy-focused AI assistance while minimizing dependency on cloud services. Current capabilities include application launching, browser automation, command interpretation, and conversational interactions.
+</details>
 
 <details>
 <summary><b>🖼️ AI Image Detector (Deep Learning & Web App)</b></summary>
@@ -95,15 +131,15 @@ My technical focus centers on constructing robust enterprise software, developin
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Python, Streamlit, ResNet50, PyTorch / TensorFlow, Hugging Face |
+| **Stack** | Python, PyTorch, ResNet-50, Streamlit, CUDA[span_10](start_span)[span_10](end_span) |
 | **Scale** | Handles high-resolution artistic image uploads and classifications in real-time |
-| **Performance** | Sub-second inference latency executing on ResNet50 backbone layers |
+| **Performance** | Sub-second inference latency executing via GPU-accelerated CUDA execution blocks |
 | **Security** | Secure multipart file upload validation and memory-safe stream buffer clearance |
-| **Impact** | Automates verification of digital artwork authenticity with definitive confidence scores |
+| **Impact** | Automates verification of digital artwork authenticity with definitive confidence scores[span_11](start_span)[span_11](end_span) |
 | **Repository** | [AI-Image-Detector](https://github.com/Mohamed-Arif-J) |
 
 ### Professional Summary
-An advanced, deep learning-powered web application architected to resolve authorship ambiguity in modern digital spaces. The core classification engine leverages a fine-tuned ResNet50 residual network layout to distinguish intricate mathematical signatures embedded in AI-generated artwork versus organic, human-created compositions. The interface features automated visual analysis pipelines and explicit confidence distribution scores for transparent model decision outputs.
+An advanced deep learning application designed to distinguish AI-generated artwork from authentic images. The system utilizes transfer learning with the ResNet-50 architecture to extract visual patterns and identify characteristics commonly found in AI-generated content. The model was trained and optimized for high-performance inference using GPU acceleration through CUDA, enabling real-time predictions. A Streamlit-based web interface allows users to upload images and instantly receive classification results with confidence scores.
 </details>
 
 <details>
@@ -112,85 +148,54 @@ An advanced, deep learning-powered web application architected to resolve author
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Python, Machine Learning, NLP, Flask, Streamlit |
-| **Scale** | Engineered for multi-platform dataset ingestion across Amazon and Flipkart e-commerce ecosystems |
-| **Performance** | Optimized feature extraction vectorization providing rapid real-time review classification |
-| **Security** | Structured input validation safeguarding downstream text tokenization engines against malicious payloads |
-| **Impact** | Curates marketplace transparency by programmatically filtering deceptive reviews |
+| **Stack** | Python, Flask, Scikit-Learn, Selenium, NLP[span_12](start_span)[span_12](end_span) |
+| **Scale** | Multi-platform scraping and validation pipeline across Amazon and Flipkart ecosystems[span_13](start_span)[span_13](end_span) |
+| **Performance** | Achieved 87% prediction accuracy during feature extraction validation |
+| **Security** | Automated anti-bot navigation and memory-safe parsing buffers |
+| **Impact** | Curates marketplace transparency by programmatically filtering deceptive reviews[span_14](start_span)[span_14](end_span) |
 | **Repository** | [Fake-Review-Detection](https://github.com/Mohamed-Arif-J) |
 
 ### Professional Summary
-An enterprise-grade analytical system designed to combat review manipulation on major consumer portals. Utilizing a combination of Natural Language Processing (NLP) text vectorization techniques and Supervised Machine Learning algorithms, the pipeline dynamically assesses syntactic patterns, sentiment anomalies, and structural integrity of reviews to accurately classify them as genuine or fraudulent.
+A machine learning-powered system designed to identify potentially fraudulent reviews on e-commerce platforms. The application automatically collects review data through web scraping using Selenium and analyzes textual patterns using Natural Language Processing techniques. The project incorporates feature extraction, text preprocessing, sentiment analysis, and classification algorithms to differentiate between genuine and suspicious reviews, helping improve trust and transparency in online review systems.
+</details>
+
+<details>
+<summary><b>🏢 Smart Hostel Management System</b></summary>
+
+### System Architecture & Performance Matrix
+| Dimension | Specifications |
+| :--- | :--- |
+| **Stack** | Java, Java Swing, MySQL |
+| **Scale** | Enterprise desktop management solution built for institutional workflow tracking |
+| **Performance** | Low-latency client-to-database CRUD querying through indexed relationship maps |
+| **Security** | Secure multi-tiered credentials login and strict role-based access controls |
+| **Impact** | Automates administrative room management, attendance tracking, and mess tracking |
+| **Repository** | [Smart-Hostel-Management](https://github.com/Mohamed-Arif-J) |
+
+### Professional Summary
+A desktop-based hostel management solution developed to simplify and automate daily hostel operations. The application provides centralized management of student records, room allocations, attendance tracking, mess management, and administrative workflows. The system features secure authentication, role-based access control, real-time database operations, and user-friendly interfaces built using Java Swing. MySQL integration ensures reliable storage and retrieval of hostel-related information while reducing manual paperwork.
+</details>
+
+<details>
+<summary><b>📱 Smart Attendance Management System</b></summary>
+
+### System Architecture & Performance Matrix
+| Dimension | Specifications |
+| :--- | :--- |
+| **Stack** | Flutter, Dart, Google ML Kit, Firebase |
+| **Scale** | Cross-platform multi-device infrastructure supporting mobile and desktop layout engines |
+| **Performance** | High-speed facial extraction matching with continuous real-time rendering |
+| **Security** | Biometric validation gates keeping localized tracking data accurate |
+| **Impact** | Completely replaces paper workflows with unified computer vision logging |
+| **Repository** | [Smart-Attendance-Management](https://github.com/Mohamed-Arif-J) |
+
+### Professional Summary
+A cross-platform attendance management application that leverages facial recognition technology to automate attendance tracking. Built using Flutter, the application supports deployment across Android and desktop platforms while maintaining a consistent user experience. Google ML Kit is used for face detection and recognition, enabling secure and efficient attendance recording. The system eliminates manual attendance processes, reduces human error, and provides real-time attendance monitoring capabilities.
 </details>
 
 ---
 
-## 💼 Experience
-
-### ⚡ FullStack Intern 
-**Acadeno Research & Innovation Centre** | *[1 Month]*
-* Engineered high-performance, dynamic user interfaces leveraging HTML, CSS, React, and Tailwind CSS.
-* Designed and built robust, modular backend application programming interfaces (APIs) utilizing Django REST Framework.
-* Implemented optimized asynchronous data ingestion architecture utilizing Axios for scalable client-server state communication.
-* **Skills:** `React` • `Django` • `Django REST Framework` • `Axios` • `Full-Stack Development`
-
-### 📱 Flutter Intern
-**Wolfdale Software Solutions** | *[15 Days]*
-* Developed a complete, production-ready Android mobile application architecture utilizing the Dart language environment.
-* Constructed highly responsive multi-device layouts ensuring adaptive UI parity across differing device aspect ratios.
-* Integrated strict reactive state management patterns alongside structured enterprise REST API connection layers.
-* **Skills:** `Flutter` • `Dart` • `State Management` • `API Integration` • `Mobile Engineering`
-
-### 🛠️ Flutter Trainee
-**Avitam Technologies** | *[1 Month]*
-* Completed rigorous, structured training focused on complex, cross-platform enterprise mobile applications.
-* Mastered Flutter rendering lifecycles, complex UI rendering components, and asynchronous network interaction structures.
-* Developed scalable application layouts emphasizing robust multi-tiered state paradigms and native device bridging.
-* **Skills:** `Flutter` • `Dart` • `Cross-Platform Systems` • `UI Components`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Best Outgoing Student 2024** | Awarded by ASSISI EMHSS Kanjikode for exemplary academic and behavioral excellence. |
-| **Department Topper (S4)** | Secured unmatched academic leadership in Computer Science & Engineering with an SGPA of 9.36. |
-| **Top 3 Batch Ranking** | Ranked within the top tier of the entire CSE 2024-2028 batch tracking a cumulative CGPA of 9.47. |
-
-</div>
-
----
-
-## 📜 Certifications
-
-### 🌐 Coursera & NPTEL
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20In%20Java-9f1239?style=flat-square&logo=read-the-docs&logoColor=white" alt="NPTEL Certification" />
-  <img src="https://img.shields.io/badge/Coursera-Python%20for%20Everybody-0056B3?style=flat-square&logo=coursera&logoColor=white" alt="Coursera Certification" />
-</p>
-
----
-
-## 📊 Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-</div>
-
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -212,26 +217,10 @@ An enterprise-grade analytical system designed to combat review manipulation on 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Arif-J&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Arif-J&theme=tokyonight&bg_color=0d1117" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-Arif-J/Mohamed-Arif-J/output/github-contribution-grid-snake.svg" alt="GitHub Snake Walk" />
 </div>
 
 ---
