@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Mohamed Arif J</h1>
+  <h1> Hi, I'm Mohamed Arif J</h1>
 </div>
 
 <div align="center">
@@ -39,44 +39,44 @@
 
 ---
 
-## 🔑 About Me
+##  About Me
 
 I am a high-achieving **B.Tech Computer Science and Engineering (Honours)** student with a minor in **Electronics and Communication Engineering**. Driven by a product engineering mindset, I specialize in architecting production-grade full-stack architectures and implementing sophisticated Deep Learning solutions. 
 
 My technical focus centers on constructing robust enterprise software, developing highly responsive cross-platform architectures using Flutter, and engineering end-to-end Machine Learning pipelines. Combining analytical precision with algorithmic excellence, I aim to build high-performance systems that bridge the gap between complex backend architectures and intelligent AI models.
 
-### 🎯 Open To
+###  Open To
 * Full-Stack Software Engineering Roles & Internships
 * AI/ML Infrastructure Development
 * Open-Source Collaborations on Enterprise Scale Software
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
-### 🚀 Languages
+###  Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,dart,postgres" alt="Languages" />
 </p>
 
-### 🌐 Frontend
+###  Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,flutter,tailwind" alt="Frontend" />
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,flask,mysql" alt="Backend & Databases" />
 </p>
 
-### 🛠️ Cloud, DevOps & Tooling
+###  Cloud, DevOps & Tooling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,selenium,vercel" alt="Tools" />
 </p>
 
 ---
 
-## 🤖 AI / ML Expertise
+##  AI / ML Expertise
 
 | Domain | Details |
 | :--- | :--- |
@@ -87,10 +87,10 @@ My technical focus centers on constructing robust enterprise software, developin
 
 ---
 
-## 🛠️ Featured Projects
+##  Featured Projects
 
 <details>
-<summary><b>🧠 Psychology Counseling Platform (Full-Stack AI Project)</b></summary>
+<summary><b> Psychology Counseling Platform (Full-Stack AI Project)</b></summary>
 
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
@@ -109,7 +109,7 @@ As the AI Integration Developer and Integration Lead, I developed and integrated
 </details>
 
 <details>
-<summary><b>🤖 Rei — Personal AI Assistant (Work in Progress)</b></summary>
+<summary><b> Rei — Personal AI Assistant (Work in Progress)</b></summary>
 
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
@@ -126,7 +126,7 @@ Rei is a personal AI assistant designed to perform real-world tasks beyond tradi
 </details>
 
 <details>
-<summary><b>🖼️ AI Image Detector (Deep Learning & Web App)</b></summary>
+<summary><b> AI Image Detector (Deep Learning & Web App)</b></summary>
 
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
@@ -143,7 +143,7 @@ An advanced deep learning application designed to distinguish AI-generated artwo
 </details>
 
 <details>
-<summary><b>🛡️ AI-Powered Fake Review Detection System</b></summary>
+<summary><b> AI-Powered Fake Review Detection System</b></summary>
 
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
@@ -160,7 +160,7 @@ A machine learning-powered system designed to identify potentially fraudulent re
 </details>
 
 <details>
-<summary><b>🏢 Smart Hostel Management System</b></summary>
+<summary><b> Smart Hostel Management System</b></summary>
 
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
@@ -177,7 +177,7 @@ A desktop-based hostel management solution developed to simplify and automate da
 </details>
 
 <details>
-<summary><b>📱 Smart Attendance Management System</b></summary>
+<summary><b> Smart Attendance Management System</b></summary>
 
 ### System Architecture & Performance Matrix
 | Dimension | Specifications |
@@ -195,7 +195,7 @@ A cross-platform attendance management application that leverages facial recogni
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -217,7 +217,7 @@ A cross-platform attendance management application that leverages facial recogni
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Arif-J&theme=tokyonight&bg_color=0d1117" width="100%" alt="Contribution Graph" />
@@ -225,7 +225,7 @@ A cross-platform attendance management application that leverages facial recogni
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 learning:
