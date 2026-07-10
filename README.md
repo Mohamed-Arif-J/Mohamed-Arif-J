@@ -102,7 +102,7 @@ My technical focus centers on constructing robust enterprise software, developin
 | **Impact** | Led entire cross-module integration and handled production-ready deployment |
 | **Repository** | [Psychology-Counseling-Platform](https://github.com/Mohamed-Arif-J) |
 
-### Professional Summary
+###  Summary
 A comprehensive AI-powered mental health counseling platform developed as part of a collaborative internship project. The application connects patients with therapists through an intuitive web interface while providing AI-assisted mental health support tools. Features include therapist appointment booking, mood tracking, journaling, psychoeducational content, self-assessment forms, and AI-driven assistance.
 
 As the AI Integration Developer and Integration Lead, I developed and integrated multiple AI modules including chatbot triage, journal sentiment analysis, crisis keyword detection, therapist recommendation, and session note summarization. Beyond my assigned responsibilities, I coordinated the integration of all team modules, connected frontend interfaces with backend services, resolved cross-module dependencies, conducted end-to-end testing, and ensured seamless communication between different components. I also managed production deployment on Render, configured the application environment, handled database migration, and verified system stability for the final release.
@@ -121,7 +121,7 @@ As the AI Integration Developer and Integration Lead, I developed and integrated
 | **Impact** | Automates operational operating system and web automation cycles via natural language |
 | **Repository** | [Rei-AI-Assistant](https://github.com/Mohamed-Arif-J) |
 
-### Professional Summary
+###  Summary
 Rei is a personal AI assistant designed to perform real-world tasks beyond traditional chat interactions. The project aims to create a desktop-based intelligent assistant capable of understanding natural language commands, controlling applications, automating browser activities, performing web searches, and executing system-level tasks. The architecture combines local Large Language Models with automation frameworks to provide privacy-focused AI assistance while minimizing dependency on cloud services. Current capabilities include application launching, browser automation, command interpretation, and conversational interactions.
 </details>
 
@@ -138,7 +138,7 @@ Rei is a personal AI assistant designed to perform real-world tasks beyond tradi
 | **Impact** | Automates verification of digital artwork authenticity with definitive confidence scores |
 | **Repository** | [AI-Image-Detector](https://github.com/Mohamed-Arif-J) |
 
-### Professional Summary
+###  Summary
 An advanced deep learning application designed to distinguish AI-generated artwork from authentic images. The system utilizes transfer learning with the ResNet-50 architecture to extract visual patterns and identify characteristics commonly found in AI-generated content. The model was trained and optimized for high-performance inference using GPU acceleration through CUDA, enabling real-time predictions. A Streamlit-based web interface allows users to upload images and instantly receive classification results with confidence scores.
 </details>
 
@@ -155,7 +155,7 @@ An advanced deep learning application designed to distinguish AI-generated artwo
 | **Impact** | Curates marketplace transparency by programmatically filtering deceptive reviews |
 | **Repository** | [Fake-Review-Detection](https://github.com/Mohamed-Arif-J) |
 
-### Professional Summary
+###  Summary
 A machine learning-powered system designed to identify potentially fraudulent reviews on e-commerce platforms. The application automatically collects review data through web scraping using Selenium and analyzes textual patterns using Natural Language Processing techniques. The project incorporates feature extraction, text preprocessing, sentiment analysis, and classification algorithms to differentiate between genuine and suspicious reviews, helping improve trust and transparency in online review systems.
 </details>
 
@@ -172,7 +172,7 @@ A machine learning-powered system designed to identify potentially fraudulent re
 | **Impact** | Automates administrative room management, attendance tracking, and mess tracking |
 | **Repository** | [Smart-Hostel-Management](https://github.com/Mohamed-Arif-J) |
 
-### Professional Summary
+###  Summary
 A desktop-based hostel management solution developed to simplify and automate daily hostel operations. The application provides centralized management of student records, room allocations, attendance tracking, mess management, and administrative workflows. The system features secure authentication, role-based access control, real-time database operations, and user-friendly interfaces built using Java Swing. MySQL integration ensures reliable storage and retrieval of hostel-related information while reducing manual paperwork.
 </details>
 
@@ -189,7 +189,7 @@ A desktop-based hostel management solution developed to simplify and automate da
 | **Impact** | Completely replaces paper workflows with unified computer vision logging |
 | **Repository** | [Smart-Attendance-Management](https://github.com/Mohamed-Arif-J) |
 
-### Professional Summary
+###  Summary
 A cross-platform attendance management application that leverages facial recognition technology to automate attendance tracking. Built using Flutter, the application supports deployment across Android and desktop platforms while maintaining a consistent user experience. Google ML Kit is used for face detection and recognition, enabling secure and efficient attendance recording. The system eliminates manual attendance processes, reduces human error, and provides real-time attendance monitoring capabilities.
 </details>
 
@@ -201,7 +201,7 @@ A cross-platform attendance management application that leverages facial recogni
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Arif-J&show_icons=true&theme=tokyonight&count_private=true" alt="Arif's GitHub Stats" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Arif-J&show_icons=true&theme=tokyonight&count_private=true" alt="Arif's GitHub Stats" /> -->
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Arif-J&theme=tokyonight" alt="Arif's GitHub Streak" />
@@ -209,7 +209,7 @@ A cross-platform attendance management application that leverages facial recogni
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Arif-J&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Arif-J&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" /> -->
       </td>
     </tr>
   </table>
