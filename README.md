@@ -47,12 +47,6 @@
   <img src="https://raw.githubusercontent.com/Mohamed-Arif-J/Mohamed-Arif-J/main/terminal-card.svg" alt="Terminal card" width="100%"/>
 </div>
 
-> ⚙️ **One-time setup, 1 minute:** download `terminal-card.svg` (the file I generated alongside this README) and upload it to the root of your `Mohamed-Arif-J/Mohamed-Arif-J` repo — **Add file → Upload files**, drop it in, **Commit changes**. That's the whole setup; the animation is self-contained in the SVG, no Action needed.
-
-I architect production-grade full-stack systems and implement sophisticated Deep Learning solutions — from responsive cross-platform apps in Flutter to end-to-end ML pipelines that go from notebook to deployed API. I care about the seam where backend architecture meets intelligent systems, and about shipping things that actually run in production, not just demos.
-
-**Open to:** Full-Stack Software Engineering Roles & Internships · AI/ML Infrastructure Development · Open-Source Collaborations on Enterprise Scale Software
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
@@ -196,14 +190,6 @@ A cross-platform Flutter app using Google ML Kit for facial recognition-based at
 <!--END_SECTION:snake-->
 
 </div>
-
-> ⚙️ **One-time setup (no coding needed), 2 minutes:**
-> 1. Go to your `Mohamed-Arif-J/Mohamed-Arif-J` repo on GitHub.com.
-> 2. Click **Add file → Create new file**.
-> 3. In the filename box type exactly: `.github/workflows/snake.yml` (the slashes auto-create the folders).
-> 4. Paste the YAML block below into the file editor.
-> 5. Click **Commit changes**.
-> 6. Go to the **Actions** tab of the repo, click "generate snake animation" on the left, then **Run workflow** (green button) to trigger it the first time. After that it re-runs automatically every day.
 
 ```yaml
 name: generate snake animation
