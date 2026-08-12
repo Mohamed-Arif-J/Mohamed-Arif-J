@@ -1,18 +1,22 @@
 <div align="center">
-  <h1> Hi, I'm Mohamed Arif J</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohamed%20Arif%20J&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Integration%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=B.Tech+CSE+(Honours)+Student;Full-Stack+Software+Engineer;AI+%2F+ML+Integration+Specialist" alt="Typing Animation" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Honours)+Student;Full-Stack+Software+Engineer;AI+%2F+ML+Integration+Specialist;Building+Production-Grade+Systems" alt="Typing Animation" />
+
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20%28Honours%29-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Minor-ECE-6D28D9?style=for-the-badge&logo=cpu&logoColor=white" alt="Minor Badge" />
   <img src="https://img.shields.io/badge/Location-Kerala,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </div>
-
-<br />
 
 <div align="center">
   <a href="https://mohamedarifj.vercel.app/" target="_blank">
@@ -29,203 +33,230 @@
   </a>
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Arif-J&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Mohamed-Arif-J?label=Followers&style=flat-square&color=6d28d9" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Mohamed-Arif-J?label=Stars&style=flat-square&color=4c1d95" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Arif-J&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mohamed-Arif-J?label=Followers&style=for-the-badge&color=6d28d9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Mohamed-Arif-J?label=Stars&style=for-the-badge&color=4c1d95" alt="Stars" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-##  About Me
+## 🧠 About Me
 
-I am a high-achieving **B.Tech Computer Science and Engineering (Honours)** student with a minor in **Electronics and Communication Engineering**. Driven by a product engineering mindset, I specialize in architecting production-grade full-stack architectures and implementing sophisticated Deep Learning solutions. 
+```yaml
+whoami:
+  name: "Mohamed Arif J"
+  role: "B.Tech CSE (Honours) — Minor in ECE"
+  focus: "Full-stack engineering + applied Deep Learning"
+  mindset: "Product engineer who ships, not just prototypes"
 
-My technical focus centers on constructing robust enterprise software, developing highly responsive cross-platform architectures using Flutter, and engineering end-to-end Machine Learning pipelines. Combining analytical precision with algorithmic excellence, I aim to build high-performance systems that bridge the gap between complex backend architectures and intelligent AI models.
+open_to:
+  - Full-Stack Software Engineering Roles & Internships
+  - AI/ML Infrastructure Development
+  - Open-Source Collaborations on Enterprise Scale Software
+```
 
-###  Open To
-* Full-Stack Software Engineering Roles & Internships
-* AI/ML Infrastructure Development
-* Open-Source Collaborations on Enterprise Scale Software
+I architect production-grade full-stack systems and implement sophisticated Deep Learning solutions — from responsive cross-platform apps in Flutter to end-to-end ML pipelines that go from notebook to deployed API. I care about the seam where backend architecture meets intelligent systems, and about shipping things that actually run in production, not just demos.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
-###  Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,dart,postgres" alt="Languages" />
-</p>
+<div align="center">
 
-###  Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind" alt="Frontend" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,dart,postgres" alt="Languages" />
 
-###  Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,mysql" alt="Backend & Databases" />
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind" alt="Frontend" />
 
-###  Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,selenium,vercel" alt="Tools" />
-</p>
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,flask,mysql" alt="Backend & Databases" />
 
----
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,selenium,vercel" alt="Tools" />
 
-##  AI / ML Expertise
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+## 🤖 AI / ML Expertise
 
 | Domain | Details |
 | :--- | :--- |
-| **Deep Learning** | Convolutional Neural Networks, ResNet50 Architectures, Computer Vision pipelines |
-| **Natural Language Processing** | Text classification, Sentiment analysis, NLP preprocessing workflows |
-| **Edge AI & Local LLMs** | Model orchestration and deployment utilizing Ollama & Hugging Face ecosystems |
+| **Deep Learning** | Convolutional Neural Networks, ResNet-50 architectures, computer vision pipelines |
+| **Natural Language Processing** | Text classification, sentiment analysis, NLP preprocessing workflows |
+| **Edge AI & Local LLMs** | Model orchestration and deployment via Ollama & Hugging Face ecosystems |
 | **Frameworks** | Streamlit, Flask API deployment interfaces for intelligent data applications |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-<details>
-<summary><b> Psychology Counseling Platform (Full-Stack AI Project)</b></summary>
+<details open>
+<summary><b>🧑‍⚕️ Psychology Counseling Platform — Full-Stack AI Project</b></summary>
+<br/>
 
-### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Django, Python, PostgreSQL, HTML, CSS, JavaScript, OpenAI API, Render |
-| **Scale** | Multi-tiered platform integrating comprehensive mental health suites for 5-member team operations |
-| **Performance** | Optimized pipeline coordination, fluid backend-to-frontend layer token routing |
-| **Security** | Secure authentication gates, protected transactional database tables on PostgreSQL |
-| **Impact** | Led entire cross-module integration and handled production-ready deployment |
-| **Repository** | [Psychology-Counseling-Platform](https://github.com/Mohamed-Arif-J) |
+| **Stack** | Django · Python · PostgreSQL · HTML/CSS/JS · OpenAI API · Render |
+| **Scale** | Multi-tiered mental health platform, 5-member team |
+| **Role** | AI Integration Developer + Integration Lead |
+| **Impact** | Led cross-module integration and production deployment |
+| **Repo** | [Psychology-Counseling-Platform](https://github.com/Mohamed-Arif-J) |
 
-###  Summary
-A comprehensive AI-powered mental health counseling platform developed as part of a collaborative internship project. The application connects patients with therapists through an intuitive web interface while providing AI-assisted mental health support tools. Features include therapist appointment booking, mood tracking, journaling, psychoeducational content, self-assessment forms, and AI-driven assistance.
+A comprehensive AI-powered mental health counseling platform built during a collaborative internship. Connects patients with therapists via an intuitive web interface, with AI-assisted support tools: chatbot triage, journal sentiment analysis, crisis keyword detection, therapist recommendation, and session note summarization.
 
-As the AI Integration Developer and Integration Lead, I developed and integrated multiple AI modules including chatbot triage, journal sentiment analysis, crisis keyword detection, therapist recommendation, and session note summarization. Beyond my assigned responsibilities, I coordinated the integration of all team modules, connected frontend interfaces with backend services, resolved cross-module dependencies, conducted end-to-end testing, and ensured seamless communication between different components. I also managed production deployment on Render, configured the application environment, handled database migration, and verified system stability for the final release.
+Beyond my assigned modules, I coordinated integration across the whole team — connecting frontend to backend, resolving cross-module dependencies, running end-to-end testing, and owning production deployment on Render including environment config and database migration.
+
 </details>
 
 <details>
-<summary><b> Rei — Personal AI Assistant (Work in Progress)</b></summary>
+<summary><b>🌸 Rei — Personal AI Assistant (Work in Progress)</b></summary>
+<br/>
 
-### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Python, FastAPI, Ollama, Qwen2.5, Selenium, Playwright |
-| **Scale** | Local standalone environment with scalable headless web automation integrations |
-| **Performance** | Asynchronous FastAPI execution routing low-latency inference cycles |
-| **Security** | 100% localized, privacy-focused offline interactions with explicit sandboxed system access |
-| **Impact** | Automates operational operating system and web automation cycles via natural language |
-| **Repository** | [Rei-AI-Assistant](https://github.com/Mohamed-Arif-J) |
+| **Stack** | Python · FastAPI · Ollama · Qwen2.5 · Selenium · Playwright |
+| **Scale** | Local, standalone, with headless web automation |
+| **Security** | 100% local, privacy-focused, sandboxed system access |
+| **Impact** | Automates OS + web workflows via natural language |
+| **Repo** | [Rei-AI-Assistant](https://github.com/Mohamed-Arif-J) |
 
-###  Summary
-Rei is a personal AI assistant designed to perform real-world tasks beyond traditional chat interactions. The project aims to create a desktop-based intelligent assistant capable of understanding natural language commands, controlling applications, automating browser activities, performing web searches, and executing system-level tasks. The architecture combines local Large Language Models with automation frameworks to provide privacy-focused AI assistance while minimizing dependency on cloud services. Current capabilities include application launching, browser automation, command interpretation, and conversational interactions.
+A desktop-based intelligent assistant that goes beyond chat — understanding natural language commands, controlling applications, automating browser activity, and executing system-level tasks. Combines local LLMs with automation frameworks to stay privacy-first and minimize cloud dependency.
+
 </details>
 
 <details>
-<summary><b> AI Image Detector (Deep Learning & Web App)</b></summary>
+<summary><b>🎨 AI Image Detector — Deep Learning & Web App</b></summary>
+<br/>
 
-### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Python, PyTorch, ResNet-50, Streamlit, CUDA |
-| **Scale** | Handles high-resolution artistic image uploads and classifications in real-time |
-| **Performance** | Sub-second inference latency executing via GPU-accelerated CUDA execution blocks |
-| **Security** | Secure multipart file upload validation and memory-safe stream buffer clearance |
-| **Impact** | Automates verification of digital artwork authenticity with definitive confidence scores |
-| **Repository** | [AI-Image-Detector](https://github.com/Mohamed-Arif-J) |
+| **Stack** | Python · PyTorch · ResNet-50 · Streamlit · CUDA |
+| **Performance** | Sub-second inference via GPU-accelerated CUDA |
+| **Impact** | Verifies digital artwork authenticity with confidence scores |
+| **Repo** | [AI-Image-Detector](https://github.com/Mohamed-Arif-J) |
 
-###  Summary
-An advanced deep learning application designed to distinguish AI-generated artwork from authentic images. The system utilizes transfer learning with the ResNet-50 architecture to extract visual patterns and identify characteristics commonly found in AI-generated content. The model was trained and optimized for high-performance inference using GPU acceleration through CUDA, enabling real-time predictions. A Streamlit-based web interface allows users to upload images and instantly receive classification results with confidence scores.
+Uses transfer learning with ResNet-50 to distinguish AI-generated artwork from authentic images, with a Streamlit interface for real-time uploads and classification.
+
 </details>
 
 <details>
-<summary><b> AI-Powered Fake Review Detection System</b></summary>
+<summary><b>🔍 AI-Powered Fake Review Detection System</b></summary>
+<br/>
 
-### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Python, Flask, Scikit-Learn, Selenium, NLP |
-| **Scale** | Multi-platform scraping and validation pipeline across Amazon and Flipkart ecosystems |
-| **Performance** | Achieved 87% prediction accuracy during feature extraction validation |
-| **Security** | Automated anti-bot navigation and memory-safe parsing buffers |
-| **Impact** | Curates marketplace transparency by programmatically filtering deceptive reviews |
-| **Repository** | [Fake-Review-Detection](https://github.com/Mohamed-Arif-J) |
+| **Stack** | Python · Flask · Scikit-Learn · Selenium · NLP |
+| **Scale** | Multi-platform scraping across Amazon & Flipkart |
+| **Performance** | 87% prediction accuracy |
+| **Repo** | [Fake-Review-Detection](https://github.com/Mohamed-Arif-J) |
 
-###  Summary
-A machine learning-powered system designed to identify potentially fraudulent reviews on e-commerce platforms. The application automatically collects review data through web scraping using Selenium and analyzes textual patterns using Natural Language Processing techniques. The project incorporates feature extraction, text preprocessing, sentiment analysis, and classification algorithms to differentiate between genuine and suspicious reviews, helping improve trust and transparency in online review systems.
+Scrapes review data and applies NLP-based feature extraction, sentiment analysis, and classification to flag potentially fraudulent reviews and improve marketplace trust.
+
 </details>
 
 <details>
-<summary><b> Smart Hostel Management System</b></summary>
+<summary><b>🏢 Smart Hostel Management System</b></summary>
+<br/>
 
-### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Java, Java Swing, MySQL |
-| **Scale** | Enterprise desktop management solution built for institutional workflow tracking |
-| **Performance** | Low-latency client-to-database CRUD querying through indexed relationship maps |
-| **Security** | Secure multi-tiered credentials login and strict role-based access controls |
-| **Impact** | Automates administrative room management, attendance tracking, and mess tracking |
-| **Repository** | [Smart-Hostel-Management](https://github.com/Mohamed-Arif-J) |
+| **Stack** | Java · Java Swing · MySQL |
+| **Impact** | Automates room management, attendance, mess tracking |
+| **Repo** | [Smart-Hostel-Management](https://github.com/Mohamed-Arif-J) |
 
-###  Summary
-A desktop-based hostel management solution developed to simplify and automate daily hostel operations. The application provides centralized management of student records, room allocations, attendance tracking, mess management, and administrative workflows. The system features secure authentication, role-based access control, real-time database operations, and user-friendly interfaces built using Java Swing. MySQL integration ensures reliable storage and retrieval of hostel-related information while reducing manual paperwork.
+A desktop hostel management solution with secure role-based access, centralized student records, and real-time database operations built on Java Swing + MySQL.
+
 </details>
 
 <details>
-<summary><b> Smart Attendance Management System</b></summary>
+<summary><b>📸 Smart Attendance Management System</b></summary>
+<br/>
 
-### System Architecture & Performance Matrix
 | Dimension | Specifications |
 | :--- | :--- |
-| **Stack** | Flutter, Dart, Google ML Kit, Firebase |
-| **Scale** | Cross-platform multi-device infrastructure supporting mobile and desktop layout engines |
-| **Performance** | High-speed facial extraction matching with continuous real-time rendering |
-| **Security** | Biometric validation gates keeping localized tracking data accurate |
-| **Impact** | Completely replaces paper workflows with unified computer vision logging |
-| **Repository** | [Smart-Attendance-Management](https://github.com/Mohamed-Arif-J) |
+| **Stack** | Flutter · Dart · Google ML Kit · Firebase |
+| **Scale** | Cross-platform: Android + desktop |
+| **Impact** | Replaces paper attendance with facial recognition logging |
+| **Repo** | [Smart-Attendance-Management](https://github.com/Mohamed-Arif-J) |
 
-###  Summary
-A cross-platform attendance management application that leverages facial recognition technology to automate attendance tracking. Built using Flutter, the application supports deployment across Android and desktop platforms while maintaining a consistent user experience. Google ML Kit is used for face detection and recognition, enabling secure and efficient attendance recording. The system eliminates manual attendance processes, reduces human error, and provides real-time attendance monitoring capabilities.
+A cross-platform Flutter app using Google ML Kit for facial recognition-based attendance, eliminating manual processes with real-time monitoring.
+
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Arif-J&show_icons=true&theme=tokyonight&count_private=true" alt="Arif's GitHub Stats" /> -->
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Arif-J&theme=tokyonight" alt="Arif's GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Arif-J&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" /> -->
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Arif-J&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Arif's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Arif-J&theme=tokyonight&hide_border=true" alt="Arif's GitHub Streak" height="165"/>
 </div>
-
----
-
-##  Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Arif-J&theme=tokyonight&bg_color=0d1117" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Arif-J&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-##  Current Focus
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/Mohamed-Arif-J/Mohamed-Arif-J/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<!--END_SECTION:snake-->
+
+</div>
+
+> ⚙️ **Setup needed:** the snake above is generated by a GitHub Action, not a static link. Add the workflow below to `.github/workflows/snake.yml` in this repo and it'll animate your real contribution graph, refreshed daily.
+
+```yaml
+name: generate snake animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Mohamed-Arif-J
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Arif-J&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+## 🎯 Current Focus
 
 ```yaml
 learning:
@@ -238,3 +269,12 @@ exploring:
 open_to:
   - Enterprise Full-Stack Internships
   - Core AI Infrastructure Engineering Tasks
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>Thanks for stopping by — feel free to explore the repos or reach out 👋</sub>
+
+</div>
