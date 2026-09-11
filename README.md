@@ -192,8 +192,6 @@ A cross-platform Flutter app using Google ML Kit for facial recognition-based at
 </div>
 
 
-> That's it — no local setup, no terminal, nothing to install. If you'd rather skip this entirely, just delete the "Contribution Snake" section below and the profile still looks complete without it.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 📈 Contribution Activity
