@@ -194,11 +194,6 @@ A cross-platform Flutter app using Google ML Kit for facial recognition-based at
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Arif-J&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
